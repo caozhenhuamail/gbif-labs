@@ -35,7 +35,7 @@
     <guava.version>14.0.1</guava.version>
     <logback.version>1.0.13</logback.version>
     <slf4j.version>1.7.5</slf4j.version>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
     <dwca-reader.version>1.14</dwca-reader.version>
     <registry-client.version>2.4</registry-client.version>
   </properties>
