@@ -116,7 +116,7 @@
     <!-- TODO:Why use the new version? -->
     <!--<validation-api.version>1.0.0.GA</validation-api.version>-->
     <validation-api.version>1.1.0.Final</validation-api.version>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
     <bval.version>0.5</bval.version>
     <solr.version>4.4.0</solr.version>
     <grizzly-servlet-webserver.version>1.9.58</grizzly-servlet-webserver.version>
