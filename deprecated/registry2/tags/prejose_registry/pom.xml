@@ -98,7 +98,7 @@
     <servlet-api.version>2.5</servlet-api.version>
     <!--<validation-api.version>1.0.0.GA</validation-api.version>-->
     <validation-api.version>1.1.0.Beta2</validation-api.version>
-    <junit.version>4.11</junit.version>
+    <junit.version>4.13.1</junit.version>
     <bval.version>0.5</bval.version>
     <grizzly-servlet-webserver.version>1.9.50</grizzly-servlet-webserver.version>
   </properties>
