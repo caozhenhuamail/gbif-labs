@@ -27,7 +27,7 @@
     <commons-lang.version>2.6</commons-lang.version>
     <dwca-reader.version>1.7.5</dwca-reader.version><!-- This is the last working version: 1.7.6 doesn't work -->
     <gbif-common.version>0.3</gbif-common.version>
-    <junit.version>4.8.2</junit.version>
+    <junit.version>4.13.1</junit.version>
     <solr.version>1.4.1</solr.version>
   </properties>
 
