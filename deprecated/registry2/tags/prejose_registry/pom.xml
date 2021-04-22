@@ -87,7 +87,7 @@
     <guava.version>12.0</guava.version>
     <guice.version>3.0</guice.version>
     <logback.version>1.0.7</logback.version>
-    <mybatis.version>3.1.1</mybatis.version>
+    <mybatis.version>3.5.6</mybatis.version>
     <mybatis-guice.version>3.3</mybatis-guice.version>
     <mybatis-ehcache.version>1.0.0</mybatis-ehcache.version>
     <postgresql.version>9.1-901-1.jdbc4</postgresql.version>
