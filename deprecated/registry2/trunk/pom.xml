@@ -104,7 +104,7 @@
     <jsr250.version>1.0</jsr250.version>
     <logback.version>1.0.13</logback.version>
     <mockito.version>1.9.5</mockito.version>
-    <mybatis.version>3.2.2</mybatis.version>
+    <mybatis.version>3.5.6</mybatis.version>
     <mybatis-guice.version>3.4</mybatis-guice.version>
     <mybatis-ehcache.version>1.0.0</mybatis-ehcache.version>
     <drupal-mybatis.version>0.8-SNAPSHOT</drupal-mybatis.version>
