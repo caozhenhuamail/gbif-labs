@@ -126,7 +126,7 @@
     <httputils.version>0.4</httputils.version>
     <jaxb-api.version>2.2.9</jaxb-api.version>
     <commons-codec.version>1.8</commons-codec.version>
-    <httpclient.version>4.2.3</httpclient.version>
+    <httpclient.version>4.5.13</httpclient.version>
     <httpcore.version>4.2.3</httpcore.version>
     <jersey-server.version>1.17.1</jersey-server.version>
   </properties>
