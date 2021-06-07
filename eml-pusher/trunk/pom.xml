@@ -33,7 +33,7 @@
 
   <properties>
     <guava.version>14.0.1</guava.version>
-    <logback.version>1.0.13</logback.version>
+    <logback.version>1.2.0</logback.version>
     <slf4j.version>1.7.5</slf4j.version>
     <junit.version>4.11</junit.version>
     <dwca-reader.version>1.14</dwca-reader.version>
