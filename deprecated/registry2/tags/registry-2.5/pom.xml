@@ -117,7 +117,7 @@
     <bval.version>0.5</bval.version>
     <solr.version>4.4.0</solr.version>
     <grizzly-servlet-webserver.version>1.9.59</grizzly-servlet-webserver.version>
-    <liquibase.version>3.0.4</liquibase.version>
+    <liquibase.version>4.8.0</liquibase.version>
     <commons-lang3.version>3.1</commons-lang3.version>
     <commons-validator.version>1.4.0</commons-validator.version>
     <httputils.version>0.4</httputils.version>
