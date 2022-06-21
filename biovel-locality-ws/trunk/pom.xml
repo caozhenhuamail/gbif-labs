@@ -79,7 +79,7 @@
     <mybatis-guice.version>3.5</mybatis-guice.version>
     <mybatis-ehcache.version>1.0.0</mybatis-ehcache.version>
     <drupal-mybatis.version>0.9</drupal-mybatis.version>
-    <mysql.version>5.1.27</mysql.version>
+    <mysql.version>8.0.28</mysql.version>
     <powermock-mockito.version>1.5.1</powermock-mockito.version>
     <slf4j.version>1.7.5</slf4j.version>
     <servlet-api.version>2.5</servlet-api.version>
