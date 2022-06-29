@@ -19,7 +19,7 @@
     <jcommander.version>1.30-gbif-20121018</jcommander.version>
     <logback.version>1.0.6</logback.version>
     <slf4j.version>1.6.5</slf4j.version>
-    <zookeeper.version>3.4.5-cdh4.2.1</zookeeper.version>
+    <zookeeper.version>3.4.14</zookeeper.version>
   </properties>
 
   <build>
